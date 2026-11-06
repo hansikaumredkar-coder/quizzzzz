@@ -36,9 +36,9 @@ const questions = [
     answer: 0
   },
   {
-    question: "What is the name of Hansika's boyfriend?",
-    options: ["Aryan", "Shriraj", "Rohan", "Vihaan"],
-    answer: 1
+    question: "What is one thing that always makes Hansika smile?",
+    options: ["Shriraj's messages", "Cute surprises", "Funny moments together", "All of these"],
+    answer: 3
   },
   {
     question: "What's better than a perfect date?",
